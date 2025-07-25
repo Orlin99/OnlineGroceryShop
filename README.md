@@ -21,7 +21,7 @@ This is a Java-based RESTful API project for managing an **Online Grocery Shop**
 
 ---
 
-## 📁 Project Structure
+## 📦 Project Structure
 
 📦 OnlineGroceryShop/<br>
 ├── 📁 src/<br>
