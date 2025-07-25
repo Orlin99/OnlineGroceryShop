@@ -14,9 +14,9 @@ This is a Java-based RESTful API project for managing an **Online Grocery Shop**
 ## 🛠️ Tech Stack
 
 - **Language:** Java
-- **Framework:** Spring Boot (or other Java framework used)
+- **Framework:** Spring Boot
 - **Database:** PostgreSQL
-- **Build Tool:** Maven (or Gradle if different)
+- **Build Tool:** Maven
 - **API Type:** REST
 
 ---
