@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: online-grocery-shop
+  datasource:
+    url: jdbc:postgresql://localhost:5432/online_grocery_shop_database
+    username: postgres
+    password: 55412678910
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 10
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: false
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
