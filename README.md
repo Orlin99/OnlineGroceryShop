@@ -23,16 +23,16 @@ This is a Java-based RESTful API project for managing an **Online Grocery Shop**
 
 ## 📁 Project Structure
 
-OnlineGroceryShop/
-├── src/
-│ └── main/
-│ ├── java/
-│ │ └── com/example/grocery/
-│ │ ├── controller/
-│ │ ├── service/
-│ │ ├── repository/
-│ │ └── model/
-│ └── resources/
-│ └── application.properties
-├── pom.xml
-└── README.md
+📦 OnlineGroceryShop/
+├── 📁 src/
+│   └── 📁 main/
+│       ├── 📁 java/
+│       │   └── 📁 com/example/grocery/
+│       │       ├── 📁 controller/
+│       │       ├── 📁 service/
+│       │       ├── 📁 repository/
+│       │       └── 📁 model/
+│       └── 📁 resources/
+│           └── 📄 application.properties
+├── 📄 pom.xml
+└── 📄 README.md
